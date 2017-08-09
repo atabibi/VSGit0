@@ -11,7 +11,8 @@ namespace gitVS00
         static void Main(string[] args)
         {
             //Added in GitHub:
-            Console.WriteLn("Hello gitHub!");
+            //Edit in VS
+            Console.WriteLine("Hello gitHub!");
         }
     }
 }
